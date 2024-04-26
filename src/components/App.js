@@ -1,6 +1,6 @@
 import React from "react";
 import blogData from "../data/blog";
-
+import Article from "./Article";
 console.log(blogData);
 
 function App() {
