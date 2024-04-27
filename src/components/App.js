@@ -1,23 +1,3 @@
-// import React from "react";
-// import blogData from "../data/blog";
-// import Article from "./Article";
-// import ArticleList from "./ArticleList";
-// import Header from "./Header";
-// import About from "./About";
-
-// console.log(blogData);
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <Header />
-//       <About />
-//       <Article />
-//       <ArticleList />
-//     </div>
-//   );
-// }
-
 import React from "react";
 import blogData from "../data/blog";
 import Header from "../components/Header";
